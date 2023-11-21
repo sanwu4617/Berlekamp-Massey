@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\30125\source\repos\Berlekamp-Massey\Berlekamp-Massey\源.cpp(126,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\30125\source\repos\Berlekamp-Massey\Berlekamp-Massey\源.cpp(132,50): warning C4805: “&”: 在操作中将类型“int”与类型“bool”混合不安全
+  Berlekamp-Massey.vcxproj -> C:\Users\30125\source\repos\Berlekamp-Massey\Debug\Berlekamp-Massey.exe

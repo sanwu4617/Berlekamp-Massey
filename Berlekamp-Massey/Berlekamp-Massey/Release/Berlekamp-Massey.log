@@ -1,0 +1,9 @@
+﻿  源.cpp
+C:\Users\30125\source\repos\Berlekamp-Massey\Berlekamp-Massey\源.cpp(128,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\30125\source\repos\Berlekamp-Massey\Berlekamp-Massey\源.cpp(134,50): warning C4805: “&”: 在操作中将类型“int”与类型“bool”混合不安全
+  正在生成代码
+  14 of 172 functions ( 8.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Berlekamp-Massey.vcxproj -> C:\Users\30125\source\repos\Berlekamp-Massey\Release\Berlekamp-Massey.exe
